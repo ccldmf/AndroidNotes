@@ -1,2 +1,3 @@
-# AndroidNotes
-学习，使用Android过程中的知识点，总结记录
+### 目录
+
+* Android环境搭建及源码编译
